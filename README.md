@@ -1,6 +1,6 @@
 ## Kanap
 
-### Projet 5 - Construisez*un_site* e_commerce_en_JavaScript
+### Projet 5 - Construisez un_site e_commerce en JavaScript
 
 This is the front end and back end server for Project 5 of the Web Developer path.
 
