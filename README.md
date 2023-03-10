@@ -1,4 +1,4 @@
-## Kanap
+## Kanap (recreated from the local repo after the remote was deleted)
 
 ### Projet 5 - Construisez un_site e_commerce en JavaScript
 
